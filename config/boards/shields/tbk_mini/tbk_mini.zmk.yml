@@ -3,8 +3,6 @@ id: tbk_mini
 name: TBK-Mini
 type: shield
 url: https://github.com/Bastardkb/TBK-Mini
-requires: [pro_micro]
-exposes: [i2c_oled]
 features:
   - keys
   - display
