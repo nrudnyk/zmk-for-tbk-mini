@@ -6,6 +6,7 @@ url: https://github.com/Bastardkb/TBK-Mini
 requires: [pro_micro]
 features:
   - keys
+  - underglow
 siblings:
   - tbk_mini_left
   - tbk_mini_right
